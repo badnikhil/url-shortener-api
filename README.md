@@ -14,8 +14,8 @@ A custom-built URL shortener service created from scratch in just 4 hours of lea
 
 - **Backend**: Node.js with Express
 - **Database**: MongoDB with Mongoose ODM
-- **URL Validation**: Custom implementation
-- **ID Generation**: Custom short ID algorithm
+- **URL Validation**: valid-url
+- **ID Generation**: shortid
 
 ## 📦 Prerequisites
 
